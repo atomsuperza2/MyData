@@ -84,7 +84,7 @@
             </div>
             <br>
             <div class="row">
-              <div class="col-md-4">
+              <div class="col-md-3">
                 <div class="panel panel-info" >
                   <div class="panel-heading"><h4><b>skill.</b></h4></div>
                   <div class="panel-body" >
@@ -92,12 +92,12 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-6">
                     <center>
-                      <img src="/uploads/skill/skill.png" >
+                      <img src="/uploads/skill/skill.png" style="width:300px; height:300px;">
                     </center>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-3">
                 <div class="panel panel-info" >
                   <div class="panel-heading"><h4><b>skill.</b></h4></div>
                   <div class="panel-body" >

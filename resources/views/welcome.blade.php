@@ -93,7 +93,7 @@
               </div>
               <div class="col-md-6">
                     <center>
-                      <img src="/uploads/skill/skill.png" style="width:550px; height:350px;">
+                      <img src="/uploads/skill/skill.png" style="width:570px; height:370px;">
                     </center>
               </div>
               <div class="col-md-3">

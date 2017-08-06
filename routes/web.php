@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('my_data');
 });
 
 Route::get('/user', 'UserController@index')->name('user.index');

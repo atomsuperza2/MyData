@@ -383,6 +383,14 @@
                 <div class="back"> 20% </div>
                 <div class="front"> <img src="/uploads/js.png" style="margin-top:5px; width:70px; height:70px;"> </div>
               </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
+              </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
+              </div>
             </div>
           </div>
         </div>
@@ -401,6 +409,14 @@
               <div class="flip3D2">
                 <div class="back"> 80%</div>
                 <div class="front"><img src="/uploads/net1.png" style="margin-top:5px; width:70px; height:70px;"></div>
+              </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
+              </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
               </div>
               <div class="flip3D2">
                 <div class="back"> </div>
@@ -436,6 +452,14 @@
                 <div class="back"> </div>
                 <div class="front"> </div>
               </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
+              </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
+              </div>
             </div>
           </div>
         </div>
@@ -461,6 +485,14 @@
                 <div class="back">  </div>
                 <div class="front">  </div>
               </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
+              </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
+              </div>
             </div>
           </div>
         </div>
@@ -473,6 +505,14 @@
               <div class="flip3D2">
                 <div class="back"> 50% </div>
                 <div class="front"> <img src="/uploads/as.png" style="margin-top:5px; width:70px; height:70px;">  </div>
+              </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
+              </div>
+              <div class="flip3D2">
+                <div class="back"> </div>
+                <div class="front"> </div>
               </div>
               <div class="flip3D2">
                 <div class="back"> </div>

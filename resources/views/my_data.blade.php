@@ -368,7 +368,7 @@
             </div>
             <div class="col-md-8">
               <div class="flip3D2">
-                <div class="back"> 85% </div>
+                <div class="back"> 75% </div>
                 <div class="front"> <img src="/uploads/C.png" style="margin-top:5px; width:70px; height:70px;"> </div>
               </div>
               <div class="flip3D2">

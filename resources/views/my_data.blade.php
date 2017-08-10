@@ -64,7 +64,7 @@
         background: #FFF;
         color: white;
         height: 625px;
-        margin: 45px;
+        margin: 2.5%;
         font-size: 28px;
         text-align: center;
         /*border: #CCC 1px dashed;*/ /* เส้นปะ */
@@ -72,16 +72,18 @@
 
       }
       #content2 {
-        background: #FF7D26;
+        height: 100%;
+        background: #EF6924;
         border-radius: 15px;
       }
       #content3 {
-        background: #FF7D26;
+
+        background: #EF6924;
         border-radius: 15px;
       }
       #content4 {
-        height: 250px;
-        background: #FF7D26;
+        height: 50%;
+        background: #EF6924;
         border-radius: 15px;
       }
 
@@ -105,12 +107,12 @@
         background-color: #555;
       }
 /*//////////////////////3D card//////////////////*/
-      .flip3D{ width:250px; height:250px; margin:30px; margin-top: 100px; float:left; }
+      .flip3D{ width:20%; height:35%; margin:2.3%; margin-top: 100px; float:left; }
       .flip3D > .front{
 	       position:absolute;
 	       -webkit-transform: perspective( 600px ) rotateY( 0deg );
 	       transform: perspective( 600px ) rotateY( 0deg );
-	       background:#FC0; width:250px; height:250px; border-radius: 7px;
+	       background:#3C4254; width:20%; height:35%; border-radius: 7px;
 	       -webkit-backface-visibility: hidden;
 	       backface-visibility: hidden;
 	       transition: -webkit-transform .5s linear 0s;
@@ -140,7 +142,7 @@
         	       position:absolute;
         	       -webkit-transform: perspective( 600px ) rotateY( 0deg );
         	       transform: perspective( 600px ) rotateY( 0deg );
-        	       background:#FC0; width:80px; height:80px; border-radius: 7px;
+        	       background:#3C4254; width:80px; height:80px; border-radius: 7px;
         	       -webkit-backface-visibility: hidden;
         	       backface-visibility: hidden;
         	       transition: -webkit-transform .5s linear 0s;
@@ -196,36 +198,82 @@
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
       }
-      #OtherDetail {background-color:#FF7D26;}
-      #PeronalDetail {background-color:#FF7D26;}
+      #OtherDetail {background-color:#EF6924;}
+      #PeronalDetail {background-color:#EF6924;}
 
       div .content-pd1 {
-        margin-top: 220px;
-        margin-left: 220px;
+        margin-top: 38%;
+        margin-left: 45%;
         text-align: center;
         font-size: 40px;
-        width: 200px;
+        width: 42%;
         height: auto;
-        border: #CCC 10px dashed;
+        border: #CCC 8px dashed;
       }
       div .content-pd2 {
-        margin-top: 180px;
-        margin-left: 100px;
+        margin-top: 25%;
+        margin-left: 15%;
         text-align: left;
         font-size: 20px;
-        width: 500px;
+        width: 65%;
         height: auto;
         /*border: #CCC 1px dashed;*/
       }
+      div .content-pd3 {
+        margin-top: 1%;
+        margin-left: 45%;
+        text-align: center;
+        font-size: 20px;
+        width: 42%;
+        height: auto;
+        border: #CCC 8px dashed;
+      }
+      div .content-pd4 {
+        margin-top: 10%;
+        margin-left: 25%;
+        text-align: left;
+        font-size: 20px;
+        width: 50%;
+        height: 300px;
+        /*background-color: #ccc;*/
+        /*border: #CCC 1px dashed;*/
+      }
+      div .content-pd5 {
+        margin-top: 2%;
+        margin-left: 96%;
+        text-align: center;
+        font-size: 20px;
+        width: 46%;
+        height: auto;
+        border: #CCC 8px dashed;
+      }
+      div .content-pd6 {
+        margin-top: 1%;
+        margin-left: 66%;
+        text-align: center;
+        font-size: 20px;
+        width: 21%;
+        height: auto;
+        border: #CCC 8px dashed;
+      }
+      div .content-pd7 {
+        margin-top: 1%;
+        margin-left: 45%;
+        text-align: center;
+        font-size: 16px;
+        width: 42%;
+        height: auto;
+        border: #CCC 8px dashed;
+      }
   /*//////////////////////icon social media//////////////////*/
       .fa {
-        padding: 35px;
-        font-size: 35px;
-        width: 35px;
+        padding: 3%;
+        font-size: 100%;
+        width: 3%;
         text-align: center;
         text-decoration: none;
-        margin-left: 30px;
-        margin-top: 50px;
+        margin: 0.5%;
+
         border-radius: 50%;
       }
 
@@ -250,9 +298,10 @@
       }
 /*//////////////////////conten skill//////////////////*/
       .content-skill {
-        background: #FF7D26;
-        height: 90px;
-        margin: 15px;
+
+        background: #EF6924;
+        height: 15%;
+        margin: 1%;
         font-size: 24px;
         /*text-align: right;*/
         /*border: #CCC 1px dashed;*/
@@ -319,8 +368,31 @@
       <div id="PeronalDetail" class="tabcontent">
         <div class="row">
           <div class="col-md-5">
-            <div class="content-pd1">
-              Jirayu C.
+            <div class="col-md-12">
+              <div class="content-pd1">
+                Jirayu C.
+              </div>
+            </div>
+
+            <div class="col-md-12">
+              <div class="col-md-6">
+                <div class="content-pd5">
+                  Male
+                </div>
+              </div>
+              <div class="content-pd6">
+                1993
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="content-pd3">
+                0882600565
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="content-pd7">
+                atomsuperza2@gmail.com
+              </div>
             </div>
           </div>
           <div class="col-md-7">
@@ -335,10 +407,51 @@
       </div>
 
       <div id="OtherDetail" class="tabcontent">
-        <h3>Other Detail</h3>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="content-pd4">
+            </br>
+              <div class="row">
+                <div class="col-md-5">
+                  <span class="label label-info">PHP Developer</span>
+                </div>
+                <div class="col-md-7">
+                  8 mouth experiences and counting.
+                </div>
+              </div>
+            </br>
+              <div class="row">
+                <div class="col-md-5">
+                  <span class="label label-info">C# developer</span>
+                </div>
+                <div class="col-md-7">
+                  1 years experiences.
+                </div>
+              </div>
+            </br>
+            <div class="row">
+              <div class="col-md-5">
+                <span class="label label-info">Java developer</span>
+              </div>
+              <div class="col-md-7">
+                2 years experiences.
+              </div>
+            </div>
+          </br>
+          <div class="row">
+            <div class="col-md-5">
+              <span class="label label-info">System Admin</span>
+            </div>
+            <div class="col-md-7">
+              2 years experiences and counting.
+            </div>
+          </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <button class="tablink" onclick="openInfo('PeronalDetail', this, '#FF7D26')" id="defaultOpen">Peronal Detail</button>
-      <button class="tablink" onclick="openInfo('OtherDetail', this, '#FF7D26')" id="OtherDetailb">Other Detail</button>
+      <button class="tablink" onclick="openInfo('PeronalDetail', this, '#EF6924')" id="defaultOpen">Peronal Detail</button>
+      <button class="tablink" onclick="openInfo('OtherDetail', this, '#EF6924')" id="OtherDetailb">Other Detail</button>
       <script>
       function openInfo(info,elmnt,color) {
           var i, tabcontent, tablinks;
@@ -360,7 +473,9 @@
     </div>
 <!-- ///////////////////////////////content Programming Experiences/////////////////////////////// -->
     <div id="content2" class="contentbox">
+    </br>
       <h3>Programming Experiences</h3>
+      <br>
         <div id="content-skill-1" class="content-skill">
           <div class="row">
             <div class="col-md-4">
@@ -403,11 +518,11 @@
             </div>
             <div class="col-md-8">
               <div class="flip3D2">
-                <div class="back"> 80% </div>
+                <div class="back"> <img src="/uploads/php.png" style="margin-top:5px; width:70px; height:70px;">  </div>
                 <div class="front"><img src="/uploads/lara.png" style="margin-top:5px; width:70px; height:70px;"></div>
               </div>
               <div class="flip3D2">
-                <div class="back"> 80%</div>
+                <div class="back"> <img src="/uploads/C.png" style="margin-top:5px; width:70px; height:70px;"> </div>
                 <div class="front"><img src="/uploads/net1.png" style="margin-top:5px; width:70px; height:70px;"></div>
               </div>
               <div class="flip3D2">
@@ -437,11 +552,11 @@
             </div>
             <div class="col-md-8">
               <div class="flip3D2">
-                <div class="back"></div>
+                <div class="back"><img src="/uploads/js.png" style="margin-top:5px; width:70px; height:70px;"></div>
                 <div class="front"><img src="/uploads/jq.gif" style="margin-top:5px; width:70px; height:70px;"></div>
               </div>
               <div class="flip3D2">
-                <div class="back"> </div>
+                <div class="back"> <img src="/uploads/css.png" style="margin-top:5px; width:70px; height:70px;"> </div>
                 <div class="front"><img src="/uploads/b.png" style="margin-top:5px; width:70px; height:70px;"></div>
               </div>
               <div class="flip3D2">
@@ -503,7 +618,7 @@
             </div>
             <div class="col-md-8">
               <div class="flip3D2">
-                <div class="back"> 50% </div>
+                <div class="back"> <img src="/uploads/java.png" style="margin-top:5px; width:70px; height:70px;"> </div>
                 <div class="front"> <img src="/uploads/as.png" style="margin-top:5px; width:70px; height:70px;">  </div>
               </div>
               <div class="flip3D2">
@@ -533,22 +648,24 @@
 
 <!-- ///////////////////////////////Projects/////////////////////////////// -->
     <div id="content3" class="contentbox">
+    </br>
       <h3>My Project</h3>
+    </br>
       <div class="flip3D">
-        <div class="back"> </div>
-        <div class="front"> </div>
+        <div class="back"> <a href="https://github.com/atomsuperza2/Diabetes1" >Link github project DiabetesCare</a> </br> Develop by using .net MVC || C# Llnguage</div>
+        <div class="front"><img src="/uploads/dc.png" style="margin-top:5px; width:250px; height:150px;"> DiabetesCare </div>
+      </div>
+      <div class="flip3D">
+        <div class="back"> <a href="https://github.com/atomsuperza2/NCT127-HRM" >Link github project HR</a> </br> Develop by using Laravel || PHP Llnguage <a href="http://nct127-hrm.herokuapp.com/" >demo</a></div>
+        <div class="front"> <img src="/uploads/hr.png" style="margin-top:5px; width:250px; height:150px;"> HRM </div>
       </div>
       <div class="flip3D">
         <div class="back"> </div>
         <div class="front"> </div>
       </div>
       <div class="flip3D">
-        <div class="back"> </div>
-        <div class="front"> </div>
-      </div>
-      <div class="flip3D">
-        <div class="back"> </div>
-        <div class="front"> </div>
+        <div class="back"><br><br><a href="https://github.com/atomsuperza2" >Link to my github</a>  </div>
+        <div class="front"> <img src="/uploads/more.png" style="margin-top:30%; width:100px; height:100px;"> </div>
       </div>
     </div>
 <!-- ///////////////////////////////content Contact/////////////////////////////// -->

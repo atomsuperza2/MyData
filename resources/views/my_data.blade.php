@@ -434,7 +434,7 @@
                 <span class="label label-info">Java developer</span>
               </div>
               <div class="col-md-7">
-                2 years experiences.
+                1 years experiences.
               </div>
             </div>
           </br>

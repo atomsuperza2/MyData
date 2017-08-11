@@ -416,7 +416,7 @@
                   <span class="label label-info">PHP Developer</span>
                 </div>
                 <div class="col-md-7">
-                  8 mouth experiences and counting.
+                  1 mouth experiences and counting.
                 </div>
               </div>
             </br>
@@ -425,7 +425,7 @@
                   <span class="label label-info">C# developer</span>
                 </div>
                 <div class="col-md-7">
-                  1 years experiences.
+                  2 years experiences.
                 </div>
               </div>
             </br>

@@ -483,19 +483,19 @@
             </div>
             <div class="col-md-8">
               <div class="flip3D2">
-                <div class="back">  </div>
+                <div class="back"> </br>75% </div>
                 <div class="front"> <img src="/uploads/C.png" style="margin-top:5px; width:70px; height:70px;"> </div>
               </div>
               <div class="flip3D2">
-                <div class="back">  </div>
+                <div class="back"> </br>80% </div>
                 <div class="front"> <img src="/uploads/php.png" style="margin-top:5px; width:70px; height:70px;"> </div>
               </div>
               <div class="flip3D2">
-                <div class="back">  </div>
+                <div class="back"> </br>60% </div>
                 <div class="front"> <img src="/uploads/java.png" style="margin-top:5px; width:70px; height:70px;"> </div>
               </div>
               <div class="flip3D2">
-                <div class="back">  </div>
+                <div class="back"> </br>20% </div>
                 <div class="front"> <img src="/uploads/js.png" style="margin-top:5px; width:70px; height:70px;"> </div>
               </div>
               <div class="flip3D2">

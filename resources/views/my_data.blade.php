@@ -416,7 +416,7 @@
                   <span class="label label-info">PHP Developer</span>
                 </div>
                 <div class="col-md-7">
-                  1 mouth experiences and counting.
+                  8 mouth experiences and counting.
                 </div>
               </div>
             </br>
